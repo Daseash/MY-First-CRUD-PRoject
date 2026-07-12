@@ -4,3 +4,5 @@ i have done this own , after learning the mern stack. from apna college sigma co
 its a dupe or air bnb a full stack project 
 hope u like it
 used cursor for some modifications in front end giving it prompts
+not a react.js model project a basic onee
+
